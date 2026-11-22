@@ -1,2 +1,6 @@
 # Find-my-Technician
-i have just made this repositary
+This is the project that is made using 
+frontend
+backend
+database
+
